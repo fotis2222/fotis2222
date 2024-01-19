@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fotis2222
+- 👀 I’m interested in math and **programming**
+- 🌱 I’m currently learning how to use a **std::vector**
+- 💞️ I’m looking to collaborate on whatever
+- 📫 Plis teach me **R**
+- 😄 Pronouns: _He / Him_
+- ⚡ Fun fact: **I hate history**
